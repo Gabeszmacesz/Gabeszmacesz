@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabeszmacesz
-- 👀 I’m interested in bilding websites.
+- 👀 I’m interested in building websites.
 - 🌱 I’m currently learning CSS, I already learned Html, git.
-- 💞️ I’m looking to collaborate on bilding basic websites.
+- 💞️ I’m looking to collaborate on building basic websites.
 - 📫 You can reach me: belenyesig@hotmail.com.
 
 <!---
